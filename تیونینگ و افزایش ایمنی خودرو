@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سایت تیونینگ و تصادف خودرو</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="navbar">
+        <a href="#home">خانه</a>
+        <a href="#contact">تماس با ما</a>
+    </div>
+
+    <div class="clock-container">
+        <div class="clock">
+            <div class="hour"></div>
+            <div class="minute"></div>
+            <div class="second"></div>
+        </div>
+        <div class="labels">
+            <p class="label">تیونینگ</p>
+            <p class="label">ایمنی تصادف</p>
+        </div>
+    </div>
+
+    <div id="contact" class="contact">
+        <h2>تماس با ما</h2>
+        <p>برای ارتباط با ما، لطفاً از طریق ایمیل info@example.com با ما تماس بگیرید.</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
